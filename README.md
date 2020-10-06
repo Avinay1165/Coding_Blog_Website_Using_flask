@@ -6,11 +6,11 @@ This is bloging website for innovative coders they can read differnt blogs and a
 
 ## Languages Used:-
 # Front End Languages:-
-1.HTML
-2.CSS
-3.Javascript
-4.Jquery
-5.Bootstrap
+1.HTML<br>
+2.CSS<br>
+3.Javascript<br>
+4.Jquery<br>
+5.Bootstrap<br>
 
 # Backend Language:-
 Python Flask
