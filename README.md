@@ -42,7 +42,7 @@ As we know when we are building a website specially for layman who don't underst
 3.Edit Post<br>
 4.Upload File<br>
 ## Login to Admin Panel:-
-<img src="https://github.com/Avinay1165/Coding_Blog_Website_Using_flask/blob/master/Imgs/7.png" height="1000px" width="100%"><br>
+<img src="https://github.com/Avinay1165/Coding_Blog_Website_Using_flask/blob/master/Imgs/7.png" height="500px" width="100%"><br>
 ## Admin Panle Page:-
 <img src="https://github.com/Avinay1165/Coding_Blog_Website_Using_flask/blob/master/Imgs/8.png" height="1000px" width="100%"><br>
 
