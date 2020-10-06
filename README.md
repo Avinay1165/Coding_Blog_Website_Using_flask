@@ -46,4 +46,5 @@ As we know when we are building a website specially for layman who don't underst
 ## Admin Panle Page:-
 <img src="https://github.com/Avinay1165/Coding_Blog_Website_Using_flask/blob/master/Imgs/8.png" height="1000px" width="100%"><br>
 
+There are many more things their in website yet to explore once you get into code you will find them also you and modify the website as per your requirements and their are many more things that you can add in this like login page etc if you want to make your website live.
 
