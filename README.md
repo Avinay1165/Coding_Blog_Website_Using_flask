@@ -4,17 +4,17 @@ This is bloging website for innovative coders they can read differnt blogs and a
 <br>
 <img src="https://github.com/Avinay1165/Coding_Blog_Website_Using_flask/blob/master/Imgs/1.png" height="1000px" width="100%">
 
-## Languages Used:-
-# Front End Languages:-
+# Languages Used:-
+## Front End Languages:-
 1.HTML<br>
 2.CSS<br>
 3.Javascript<br>
 4.Jquery<br>
 5.Bootstrap<br>
 
-# Backend Language:-
+## Backend Language:-
 Python Flask
-# Database:-
+## Database:-
 MySql(Using Xamp)
 
 
