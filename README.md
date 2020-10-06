@@ -35,4 +35,11 @@ Here I have entered Some details and message to admin now when I click send It w
 ## Here in 8th row you can see the message and other details I send to admin
 <img src="https://github.com/Avinay1165/Coding_Blog_Website_Using_flask/blob/master/Imgs/6.PNG" height="300px" width="100%">
 
+# Admin Panel:-
+As we know when we are building a website specially for layman who don't understand how code works we must keep it simple for admin to control his website. So here in Admin Panel I am controling evrything using single click without going to database again and again here you can the various options for Admin Panel like:-
+1.Add Post <br>
+2.Delete Post<br>
+3.Edit Post<br>
+4.Upload File<br>
+## Login to Admin Panel:-
 
