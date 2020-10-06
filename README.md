@@ -20,4 +20,8 @@ MySql(Using Xamp)
 # About.html 
 <img src="https://github.com/Avinay1165/Coding_Blog_Website_Using_flask/blob/master/Imgs/2.png" height="1000px" width="100%">
 
+# Sample Post:-
+In index file when you click on any link or post it will redirect you to sample post page where you can see the complete post of that blog and everything here I am fatching using database your will also see the image change in background also I have includes json file here to get some data. Also in main,py file you will see all the libraries I have installed you can see one example below when I click on Python Introduction in home page.
+<img src="https://github.com/Avinay1165/Coding_Blog_Website_Using_flask/blob/master/Imgs/3.png" height="1000px" width="100%">
+
 
