@@ -17,5 +17,7 @@ Python Flask
 ## Database:-
 MySql(Using Xamp)
 
+# About.html 
+<img src="https://github.com/Avinay1165/Coding_Blog_Website_Using_flask/blob/master/Imgs/2.png" height="1000px" width="100%">
 
 
