@@ -31,6 +31,7 @@ In contact link you can send any message or query to admin your messege will sto
 Here I have entered Some details and message to admin now when I click send It will save in database and also go to admin gmail check below example:-
 ## This is database I created here in contact table my all messege will save.
 <img src="https://github.com/Avinay1165/Coding_Blog_Website_Using_flask/blob/master/Imgs/5.PNG" height="300px" width="100%">
+
 ## Here in 8th row you can see the message and other details I send to admin
 <img src="https://github.com/Avinay1165/Coding_Blog_Website_Using_flask/blob/master/Imgs/6.PNG" height="300px" width="100%">
 
