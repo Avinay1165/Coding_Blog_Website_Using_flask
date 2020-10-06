@@ -2,19 +2,19 @@
   "params":
   {
     "local_server": "True",
-    "local_uri": "mysql://root:@localhost/coding_blog",
-    "prod_uri": "mysql://root:@localhost/coding_blog",
+    "local_uri": "mysql://root:@localhost/Table_Name",
+    "prod_uri": "mysql://root:@localhost/Table_Name",
     "fb_url": "https://facebook.com/codeblog",
     "tw_url": "https://twitter.com/codeblog",
     "gt_url": "https://github.com/codeblog",
     "blog_name": "Coding Blog",
-    "gmail_user": "avinay1168@gmail.com",
-    "gmail_password": "palthandev@293",
+    "gmail_user": "yourmail@gmail.com",
+    "gmail_password": "password",
     "no_of_posts": 2,
     "login_img": "bootstrap-solid.svg",
     "admin_user": "Avinay",
-    "admin_password": "palthan",
+    "admin_password": "password",
     "about_me": "Hello everyone my name is Avinay Mehta and this is my first website which I have created to introduce myself. This website is purely made by using the HTML and CSS languages. As this is my first website so I tried to keep it simple and just shown little bit of my skills which I have learned. As I want to become the professional web developer so this is my small step to start my journey to become one. Currently I am presuing my master's degree in Computer Applications in Vellore Institute of Technology in India and I am looking forward to create better and bigger websites ",
-    "upload_location": "E:\\Flask Projects\\Flask-tut\\static"
+    "upload_location": "Give uploade location of your drive"
   }
 }
